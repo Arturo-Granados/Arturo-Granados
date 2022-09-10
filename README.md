@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arturo-granados-b86a2b210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arturo-granados-b86a2b210" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/arturogranados" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arturogranados" height="30" width="40" /></a>
+<a href="https://kaggle.com/arturogranados" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arturogranados" height="30" width="40" /></a>
 <a href="https://medium.com/@artgracastro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@artgracastro" height="30" width="40" /></a>
 </p>
 
