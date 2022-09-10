@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arturo Grandos 👨‍💻</h1>
 <h3 align="center">A passionate ML learning engineer 👨‍💻🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arturo-granados&label=Profile%20views&color=0e75b6&style=flat" alt="arturo-granados" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arturo-granados" alt="arturo-granados" /></a> </p>
-
 - 🔭 I’m currently working on [Google](Developer ML Bootcamp 🚀)
 
 - 🌱 I’m currently learning **GCP**
